@@ -1,0 +1,36 @@
+## 4. User Interface
+
+- **Landing Page:** Shows daily routine for all running batches; rescheduled classes highlighted in yellow  
+- **Teacher Dashboard:** Upcoming classes, quick reschedule/cancel buttons  
+- **Reschedule Form:** Dropdowns for slots, rooms; inline conflict warnings  
+- **Monitor Panel:** CRUD pages for rooms/courses/teachers; buttons to mark classes conducted/missed  
+- **Project Workspace:** Group roster, tasks list, announcements, comment threads  
+- **Evaluation Dashboard:** Input fields for supervisor and evaluator marks, final mark calculation shown  
+- **Responsive Design:** Works smoothly on both desktop and mobile screens  
+
+---
+
+## 5. Usage
+
+- **User Login:** Teachers → dashboards; Students → project workspace  
+- **Routine View:** Public (no login) access to batch weekly and daily schedules  
+- **Reschedule/Cancel:** Must be 24h in advance; system checks conflicts for teacher, batch, room; updates logs and notifies  
+- **Monitor Actions:** Generate schedules, mark classes as conducted/missed, view course stats  
+- **Project/Group Work:** Students join with a class code, form groups (2–4 members), upload one submission per task  
+- **Thesis Supervision:** Supervisor schedules meetings; evaluators join defenses; final marks = supervisor (50) + evaluator average (50); results published  
+
+---
+
+## 6. Assets
+
+- **Images/Icons:**  
+  - Status badges (Online, Offline, Rescheduled)  
+  - Course, Teacher, Room, Slot management icons  
+  - Groups, Tasks, Announcements, Comments icons  
+  - Evaluation/Marks, Thesis/Defense icons  
+
+- **Diagrams:** Flow diagram (Mermaid + PNG), UI wireframes  
+
+- **Audio:** Simple notification sounds for submission success, reschedule confirmation, mark publication  
+
+---
