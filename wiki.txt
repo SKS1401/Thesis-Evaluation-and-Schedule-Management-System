@@ -1,3 +1,26 @@
+# Project Evaluation & Schedule Management – Project Flow Design
+
+---
+
+## 1. Team and Title Details
+- **Project Title:** Project Evaluation & Schedule Management System
+- **Team Members:**
+  - Fatema Akter Rimi — 351 — 210871
+  - Sadia Anjum Opi — 362 — 210882
+  - Srabasti Karmakar Shaiba — 367 — 210887
+  - Bramuel Chandan Hembrom — 407 — 210927
+
+---
+
+## 2. Overview of the Project
+A responsive web system for academic scheduling and project/thesis evaluation.  
+
+- **Story/Concept:** The system manages daily/weekly class routines for students and teachers, supports project/thesis collaboration in groups, and handles evaluation & scheduling conflicts automatically.  
+- **Target Platform:** Web application (desktop + mobile responsive)  
+- **Visual Style:** Clean dashboard UI, tables and cards with status badges (Online, Offline, Rescheduled)  
+- **Audio Style:** Minimal notification sounds on important actions (reschedule success, assignment submission, mark publication)
+## 3. Use case diagram 
+
 ## 4. User Interface
 
 - **Landing Page:** Shows daily routine for all running batches; rescheduled classes highlighted in yellow  
