@@ -20,6 +20,7 @@ A responsive web system for academic scheduling and project/thesis evaluation.
 - **Visual Style:** Clean dashboard UI, tables and cards with status badges (Online, Offline, Rescheduled)  
 - **Audio Style:** Minimal notification sounds on important actions (reschedule success, assignment submission, mark publication)
 ## 3. Use case diagram 
+![useCase diagram](useCase.png)
 
 ## 4. User Interface
 
