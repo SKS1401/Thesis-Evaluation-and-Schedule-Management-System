@@ -18,9 +18,11 @@ A responsive web system for academic scheduling and project/thesis evaluation.
 - **Story/Concept:** The system manages daily/weekly class routines for students and teachers, supports project/thesis collaboration in groups, and handles evaluation & scheduling conflicts automatically.  
 - **Target Platform:** Web application (desktop + mobile responsive)  
 - **Visual Style:** Clean dashboard UI, tables and cards with status badges (Online, Offline, Rescheduled)  
-- **Audio Style:** Minimal notification sounds on important actions (reschedule success, assignment submission, mark publication)
-## 3. Use case diagram 
-![useCase diagram](useCase.png)
+- **Audio Style:** Minimal notification sounds on important actions (reschedule success, assignment submission, mark publication)   
+
+## 3. Project use case diagram
+
+![usecase Diagram](usecase.png)
 
 ## 4. User Interface
 
@@ -33,7 +35,6 @@ A responsive web system for academic scheduling and project/thesis evaluation.
 - **Responsive Design:** Works smoothly on both desktop and mobile screens  
 
 ---
-
 ## 5. Usage
 
 - **User Login:** Teachers → dashboards; Students → project workspace  
@@ -44,6 +45,7 @@ A responsive web system for academic scheduling and project/thesis evaluation.
 - **Thesis Supervision:** Supervisor schedules meetings; evaluators join defenses; final marks = supervisor (50) + evaluator average (50); results published  
 
 ---
+
 
 ## 6. Assets
 
